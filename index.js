@@ -7,5 +7,5 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  "app";
+  var nodes = document.querySelectorAll('#grand-node div');
 }
