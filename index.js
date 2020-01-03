@@ -5,5 +5,5 @@ function getFirstSelector(selector) {
     // for (let i = 0; i < lis.length; i++) {
     //
     // }
-    return selector[0];
+    return const li2 = document.querySelector('ul.ranked-list li ul li');
 }
