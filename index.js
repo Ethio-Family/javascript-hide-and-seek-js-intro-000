@@ -7,5 +7,5 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  ."app";
+  "app";
 }
