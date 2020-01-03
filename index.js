@@ -5,5 +5,5 @@ function getFirstSelector(selector) {
     // for (let i = 0; i < lis.length; i++) {
     //
     // }
-    return document.getElementsByTagName('div')[0];
+    return document.getElementsByTagName('ranked-list')[0];
 }
