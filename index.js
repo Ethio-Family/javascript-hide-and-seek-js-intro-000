@@ -7,5 +7,5 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  var nodes = document.querySelectorAll('#grand-node div');
+  var nodes = document.querySelectorAll('nested');
 }
