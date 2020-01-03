@@ -5,6 +5,5 @@ function getFirstSelector(selector) {
     // for (let i = 0; i < lis.length; i++) {
     //
     // }
-    document.querySelector('div');
-    return div;
+    return document.querySelector(selector);
 }
