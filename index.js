@@ -2,7 +2,8 @@
 // which accepts a selector and returns the first element that matches
 
 function getFirstSelector(selector) {
-    for (let i = 0; i < lis.length; i++) {
-      
-    }
+    // for (let i = 0; i < lis.length; i++) {
+    //
+    // }
+    return selector[0];
 }
