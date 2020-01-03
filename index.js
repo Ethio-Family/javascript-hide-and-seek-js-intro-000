@@ -9,3 +9,8 @@ function getFirstSelector(selector) {
 function nestedTarget() {
   var nodes = document.querySelectorAll('nested');
 }
+
+
+function deepestChild() {
+  var nodes = document.querySelectorAll('#grand-node div');
+}
