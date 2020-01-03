@@ -7,7 +7,7 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  var nodes = document.querySelectorAll('nested');
+  document.querySelectorAll('nested');
 }
 
 
